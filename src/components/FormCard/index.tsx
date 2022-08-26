@@ -7,7 +7,7 @@ function FormCard({movieId}: Props) {
 
     return (
         <div className="dsmovie-form-container"> 
-            <img className="dsmovie-movie-card-image" src="url" alt="The Witcher"/>
+            <img className="dsmovie-movie-card-image" src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg" alt="The Witcher"/>
             <div className="dsmovie-card-bottom-container">
                 <h3> The Witcher </h3>
                 <form className="dsmovie-form">
